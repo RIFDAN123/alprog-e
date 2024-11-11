@@ -1,4 +1,4 @@
-ame = "Rifdan"
+name = "Rifdan"
 address = "Kilo Dompu"
 nim = "24241107"
 firstNim = 24
